@@ -67,27 +67,6 @@ cout<<endl;
 }
 	cout<<endl;
 }
-cout<<endl;
-		//multiplication  of two matrix...
-	for(i=0;i<2;i++){
-		for (j=0;j<2;j++){
-			sum[i][j]=arr[i][j]*arr1[i][j];
-		}
-			
-	}
-	
-	//print multiplistion of two matrix...
-	cout<<"division of matrix is "<<endl;
-		for(i=0;i<2;i++){
-		for (j=0;j<2;j++){
-	//	cout<<arr[i][j];
-	//	cout<<arr1[i][j];
-	
-	cout<<sum[i][j]<<ends;
-
-}
-	cout<<endl;
-}
 cout<<endl;	
 	//division of two matrix...
 	for(i=0;i<2;i++){
